@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
+	  <Title>MD_Baltimore_19371.png</Title>
+	  <Abstract></Abstract>
+	  <SRS>EPSG:900913</SRS>
+	  <BoundingBox minx="39.15385942143586" miny="-76.79196868374696" maxx="39.43975952121895" maxy="-76.44425270171035"/>
+	  <Origin x="39.15385942143586" y="-76.79196868374696"/>
+	  <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
+	  <TileSets profile="mercator">
+	    <TileSet href="6" units-per-pixel="2445.98490468750015" order="6"/>
+	    <TileSet href="7" units-per-pixel="1222.99245234375007" order="7"/>
+	    <TileSet href="8" units-per-pixel="611.49622617187504" order="8"/>
+	  </TileSets>
+	</TileMap>
+	
